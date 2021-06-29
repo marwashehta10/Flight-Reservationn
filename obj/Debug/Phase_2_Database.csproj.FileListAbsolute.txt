@@ -1,0 +1,12 @@
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\bin\Debug\Phase_2_Database.exe.config
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\bin\Debug\Phase_2_Database.exe
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\bin\Debug\Phase_2_Database.pdb
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\obj\Debug\Phase_2_Database.csprojAssemblyReference.cache
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\obj\Debug\Phase_2_Database.Form1.resources
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\obj\Debug\Phase_2_Database.Properties.Resources.resources
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\obj\Debug\Phase_2_Database.csproj.GenerateResource.cache
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\obj\Debug\Phase_2_Database.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\obj\Debug\Phase_2_Database.csproj.CopyComplete
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\obj\Debug\Phase_2_Database.exe
+C:\Users\Mohamed\source\repos\Phase_2_Database\Phase_2_Database\obj\Debug\Phase_2_Database.pdb
